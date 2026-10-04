@@ -1,0 +1,54 @@
+Summer|1896|Athens|Greece
+Summer|1900|Paris|France
+Summer|1904|St. Louis|United States
+Summer|1908|London|United Kingdom
+Summer|1912|Stockholm|Sweden
+Summer|1920|Antwerp|Belgium
+Summer|1924|Paris|France
+Summer|1928|Amsterdam|Netherlands
+Summer|1932|Los Angeles|United States
+Summer|1936|Berlin|Germany
+Summer|1948|London|United Kingdom
+Summer|1952|Helsinki|Finland
+Summer|1956|Melbourne|Australia
+Summer|1960|Rome|Italy
+Summer|1964|Tokyo|Japan
+Summer|1968|Mexico City|Mexico
+Summer|1972|Munich|West Germany
+Summer|1976|Montreal|Canada
+Summer|1980|Moscow|Soviet Union
+Summer|1984|Los Angeles|United States
+Summer|1988|Seoul|South Korea
+Summer|1992|Barcelona|Spain
+Summer|1996|Atlanta|United States
+Summer|2000|Sydney|Australia
+Summer|2004|Athens|Greece
+Summer|2008|Beijing|China
+Summer|2012|London|United Kingdom
+Summer|2016|Rio de Janeiro|Brazil
+Summer|2020|Tokyo|Japan
+Summer|2024|Paris|France
+Winter|1924|Chamonix|France
+Winter|1928|St. Moritz|Switzerland
+Winter|1932|Lake Placid|United States
+Winter|1936|Garmisch-Partenkirchen|Germany
+Winter|1948|St. Moritz|Switzerland
+Winter|1952|Oslo|Norway
+Winter|1956|Cortina d'Ampezzo|Italy
+Winter|1960|Squaw Valley|United States
+Winter|1964|Innsbruck|Austria
+Winter|1968|Grenoble|France
+Winter|1972|Sapporo|Japan
+Winter|1976|Innsbruck|Austria
+Winter|1980|Lake Placid|United States
+Winter|1984|Sarajevo|Yugoslavia
+Winter|1988|Calgary|Canada
+Winter|1992|Albertville|France
+Winter|1994|Lillehammer|Norway
+Winter|1998|Nagano|Japan
+Winter|2002|Salt Lake City|United States
+Winter|2006|Turin|Italy
+Winter|2010|Vancouver|Canada
+Winter|2014|Sochi|Russia
+Winter|2018|Pyeongchang|South Korea
+Winter|2022|Beijing|China

@@ -1,0 +1,100 @@
+Jaws|Steven Spielberg|1975
+Jurassic Park|Steven Spielberg|1993
+E.T. the Extra-Terrestrial|Steven Spielberg|1982
+Raiders of the Lost Ark|Steven Spielberg|1981
+Schindler's List|Steven Spielberg|1993
+Saving Private Ryan|Steven Spielberg|1998
+Catch Me If You Can|Steven Spielberg|2002
+Close Encounters of the Third Kind|Steven Spielberg|1977
+Titanic|James Cameron|1997
+Avatar|James Cameron|2009
+The Terminator|James Cameron|1984
+Terminator 2: Judgment Day|James Cameron|1991
+Aliens|James Cameron|1986
+The Abyss|James Cameron|1989
+Inception|Christopher Nolan|2010
+Interstellar|Christopher Nolan|2014
+The Dark Knight|Christopher Nolan|2008
+Memento|Christopher Nolan|2000
+Dunkirk|Christopher Nolan|2017
+The Prestige|Christopher Nolan|2006
+Tenet|Christopher Nolan|2020
+Oppenheimer|Christopher Nolan|2023
+Pulp Fiction|Quentin Tarantino|1994
+Reservoir Dogs|Quentin Tarantino|1992
+Kill Bill: Volume 1|Quentin Tarantino|2003
+Django Unchained|Quentin Tarantino|2012
+Inglourious Basterds|Quentin Tarantino|2009
+Once Upon a Time in Hollywood|Quentin Tarantino|2019
+The Godfather|Francis Ford Coppola|1972
+Apocalypse Now|Francis Ford Coppola|1979
+The Godfather Part II|Francis Ford Coppola|1974
+The Conversation|Francis Ford Coppola|1974
+Goodfellas|Martin Scorsese|1990
+Taxi Driver|Martin Scorsese|1976
+Raging Bull|Martin Scorsese|1980
+The Departed|Martin Scorsese|2006
+The Wolf of Wall Street|Martin Scorsese|2013
+Hugo|Martin Scorsese|2011
+Alien|Ridley Scott|1979
+Blade Runner|Ridley Scott|1982
+Gladiator|Ridley Scott|2000
+The Martian|Ridley Scott|2015
+Thelma & Louise|Ridley Scott|1991
+Prometheus|Ridley Scott|2012
+Psycho|Alfred Hitchcock|1960
+Vertigo|Alfred Hitchcock|1958
+Rear Window|Alfred Hitchcock|1954
+The Birds|Alfred Hitchcock|1963
+North by Northwest|Alfred Hitchcock|1959
+The Shining|Stanley Kubrick|1980
+2001: A Space Odyssey|Stanley Kubrick|1968
+A Clockwork Orange|Stanley Kubrick|1971
+Full Metal Jacket|Stanley Kubrick|1987
+Dr. Strangelove|Stanley Kubrick|1964
+Spirited Away|Hayao Miyazaki|2001
+My Neighbor Totoro|Hayao Miyazaki|1988
+Princess Mononoke|Hayao Miyazaki|1997
+Howl's Moving Castle|Hayao Miyazaki|2004
+Ponyo|Hayao Miyazaki|2008
+The Grand Budapest Hotel|Wes Anderson|2014
+Moonrise Kingdom|Wes Anderson|2012
+Fantastic Mr. Fox|Wes Anderson|2009
+The Royal Tenenbaums|Wes Anderson|2001
+Edward Scissorhands|Tim Burton|1990
+Beetlejuice|Tim Burton|1988
+Batman|Tim Burton|1989
+Big Fish|Tim Burton|2003
+Corpse Bride|Tim Burton and Mike Johnson|2005
+Forrest Gump|Robert Zemeckis|1994
+Back to the Future|Robert Zemeckis|1985
+Cast Away|Robert Zemeckis|2000
+Who Framed Roger Rabbit|Robert Zemeckis|1988
+The Shawshank Redemption|Frank Darabont|1994
+The Green Mile|Frank Darabont|1999
+Fight Club|David Fincher|1999
+Se7en|David Fincher|1995
+The Social Network|David Fincher|2010
+Gone Girl|David Fincher|2014
+Zodiac|David Fincher|2007
+The Truman Show|Peter Weir|1998
+Dead Poets Society|Peter Weir|1989
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001
+The Lord of the Rings: The Two Towers|Peter Jackson|2002
+The Lord of the Rings: The Return of the King|Peter Jackson|2003
+King Kong|Peter Jackson|2005
+The Hobbit: An Unexpected Journey|Peter Jackson|2012
+Amélie|Jean-Pierre Jeunet|2001
+Parasite|Bong Joon-ho|2019
+Snowpiercer|Bong Joon-ho|2013
+Get Out|Jordan Peele|2017
+Us|Jordan Peele|2019
+Nope|Jordan Peele|2022
+Barbie|Greta Gerwig|2023
+Lady Bird|Greta Gerwig|2017
+Little Women|Greta Gerwig|2019
+La La Land|Damien Chazelle|2016
+Whiplash|Damien Chazelle|2014
+The Sixth Sense|M. Night Shyamalan|1999
+Signs|M. Night Shyamalan|2002
+The Village|M. Night Shyamalan|2004

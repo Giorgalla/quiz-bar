@@ -1,0 +1,52 @@
+France|Paris|Euro|Europe
+Germany|Berlin|Euro|Europe
+Italy|Rome|Euro|Europe
+Spain|Madrid|Euro|Europe
+Portugal|Lisbon|Euro|Europe
+Greece|Athens|Euro|Europe
+Austria|Vienna|Euro|Europe
+Belgium|Brussels|Euro|Europe
+Netherlands|Amsterdam|Euro|Europe
+Ireland|Dublin|Euro|Europe
+Finland|Helsinki|Euro|Europe
+Sweden|Stockholm|Swedish krona|Europe
+Norway|Oslo|Norwegian krone|Europe
+Denmark|Copenhagen|Danish krone|Europe
+Iceland|Reykjavik|Icelandic króna|Europe
+Poland|Warsaw|Polish złoty|Europe
+Czechia|Prague|Czech koruna|Europe
+Hungary|Budapest|Hungarian forint|Europe
+Romania|Bucharest|Romanian leu|Europe
+Switzerland|Bern|Swiss franc|Europe
+Japan|Tokyo|Japanese yen|Asia
+China|Beijing|Renminbi|Asia
+South Korea|Seoul|South Korean won|Asia
+Thailand|Bangkok|Thai baht|Asia
+Vietnam|Hanoi|Vietnamese đồng|Asia
+Cambodia|Phnom Penh|Cambodian riel|Asia
+Malaysia|Kuala Lumpur|Malaysian ringgit|Asia
+Philippines|Manila|Philippine peso|Asia
+India|New Delhi|Indian rupee|Asia
+Nepal|Kathmandu|Nepalese rupee|Asia
+Bhutan|Thimphu|Bhutanese ngultrum|Asia
+Bangladesh|Dhaka|Bangladeshi taka|Asia
+Pakistan|Islamabad|Pakistani rupee|Asia
+Mongolia|Ulaanbaatar|Mongolian tögrög|Asia
+Egypt|Cairo|Egyptian pound|Africa
+Kenya|Nairobi|Kenyan shilling|Africa
+Ghana|Accra|Ghanaian cedi|Africa
+Nigeria|Abuja|Nigerian naira|Africa
+Morocco|Rabat|Moroccan dirham|Africa
+Tunisia|Tunis|Tunisian dinar|Africa
+Algeria|Algiers|Algerian dinar|Africa
+Senegal|Dakar|West African CFA franc|Africa
+Ethiopia|Addis Ababa|Ethiopian birr|Africa
+Uganda|Kampala|Ugandan shilling|Africa
+Canada|Ottawa|Canadian dollar|North America
+Mexico|Mexico City|Mexican peso|North America
+Brazil|Brasília|Brazilian real|South America
+Argentina|Buenos Aires|Argentine peso|South America
+Chile|Santiago|Chilean peso|South America
+Peru|Lima|Peruvian sol|South America
+Australia|Canberra|Australian dollar|Oceania
+New Zealand|Wellington|New Zealand dollar|Oceania

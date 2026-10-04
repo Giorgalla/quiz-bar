@@ -1,0 +1,100 @@
+African lion|Mammal|Carnivore
+Bengal tiger|Mammal|Carnivore
+Cheetah|Mammal|Carnivore
+Leopard|Mammal|Carnivore
+Jaguar|Mammal|Carnivore
+Snow leopard|Mammal|Carnivore
+Puma|Mammal|Carnivore
+Canada lynx|Mammal|Carnivore
+Caracal|Mammal|Carnivore
+Serval|Mammal|Carnivore
+African wild dog|Mammal|Carnivore
+Grey wolf|Mammal|Carnivore
+Polar bear|Mammal|Carnivore
+Giant panda|Mammal|Herbivore
+Brown bear|Mammal|Omnivore
+American black bear|Mammal|Omnivore
+Red fox|Mammal|Omnivore
+Raccoon|Mammal|Omnivore
+Wild boar|Mammal|Omnivore
+Chimpanzee|Mammal|Omnivore
+African bush elephant|Mammal|Herbivore
+Asian elephant|Mammal|Herbivore
+Giraffe|Mammal|Herbivore
+Plains zebra|Mammal|Herbivore
+White rhinoceros|Mammal|Herbivore
+Black rhinoceros|Mammal|Herbivore
+Common hippopotamus|Mammal|Herbivore
+American bison|Mammal|Herbivore
+European bison|Mammal|Herbivore
+Red deer|Mammal|Herbivore
+Moose|Mammal|Herbivore
+Reindeer|Mammal|Herbivore
+Impala|Mammal|Herbivore
+Springbok|Mammal|Herbivore
+Blue wildebeest|Mammal|Herbivore
+Dromedary camel|Mammal|Herbivore
+Bactrian camel|Mammal|Herbivore
+Llama|Mammal|Herbivore
+Alpaca|Mammal|Herbivore
+Domestic horse|Mammal|Herbivore
+Domestic donkey|Mammal|Herbivore
+Domestic cattle|Mammal|Herbivore
+Domestic sheep|Mammal|Herbivore
+Domestic goat|Mammal|Herbivore
+European rabbit|Mammal|Herbivore
+Brown hare|Mammal|Herbivore
+Capybara|Mammal|Herbivore
+Guinea pig|Mammal|Herbivore
+Chinchilla|Mammal|Herbivore
+North American beaver|Mammal|Herbivore
+Koala|Mammal|Herbivore
+Common wombat|Mammal|Herbivore
+Red kangaroo|Mammal|Herbivore
+West Indian manatee|Mammal|Herbivore
+Dugong|Mammal|Herbivore
+Blue whale|Mammal|Carnivore
+Humpback whale|Mammal|Carnivore
+Sperm whale|Mammal|Carnivore
+Orca|Mammal|Carnivore
+Bottlenose dolphin|Mammal|Carnivore
+Harbour seal|Mammal|Carnivore
+California sea lion|Mammal|Carnivore
+Walrus|Mammal|Carnivore
+Sea otter|Mammal|Carnivore
+European otter|Mammal|Carnivore
+Giant anteater|Mammal|Carnivore
+Aardvark|Mammal|Carnivore
+Tasmanian devil|Mammal|Carnivore
+Platypus|Mammal|Carnivore
+European hedgehog|Mammal|Omnivore
+Bald eagle|Bird|Carnivore
+Golden eagle|Bird|Carnivore
+Peregrine falcon|Bird|Carnivore
+Barn owl|Bird|Carnivore
+Snowy owl|Bird|Carnivore
+Emperor penguin|Bird|Carnivore
+Atlantic puffin|Bird|Carnivore
+Great white pelican|Bird|Carnivore
+Great blue heron|Bird|Carnivore
+Common kingfisher|Bird|Carnivore
+Common ostrich|Bird|Omnivore
+Emu|Bird|Omnivore
+Common raven|Bird|Omnivore
+Carrion crow|Bird|Omnivore
+Mallard|Bird|Omnivore
+Domestic chicken|Bird|Omnivore
+Wild turkey|Bird|Omnivore
+Mute swan|Bird|Herbivore
+Canada goose|Bird|Herbivore
+Budgerigar|Bird|Herbivore
+Nile crocodile|Reptile|Carnivore
+American alligator|Reptile|Carnivore
+Komodo dragon|Reptile|Carnivore
+King cobra|Reptile|Carnivore
+Reticulated python|Reptile|Carnivore
+Boa constrictor|Reptile|Carnivore
+Green iguana|Reptile|Herbivore
+Galápagos giant tortoise|Reptile|Herbivore
+Marine iguana|Reptile|Herbivore
+Leopard tortoise|Reptile|Herbivore

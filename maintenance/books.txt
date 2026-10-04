@@ -1,0 +1,100 @@
+Pride and Prejudice|Jane Austen|1813
+Sense and Sensibility|Jane Austen|1811
+Emma|Jane Austen|1815
+Mansfield Park|Jane Austen|1814
+Persuasion|Jane Austen|1817
+Jane Eyre|Charlotte Brontë|1847
+Wuthering Heights|Emily Brontë|1847
+Agnes Grey|Anne Brontë|1847
+The Tenant of Wildfell Hall|Anne Brontë|1848
+Great Expectations|Charles Dickens|1861
+Oliver Twist|Charles Dickens|1838
+A Christmas Carol|Charles Dickens|1843
+A Tale of Two Cities|Charles Dickens|1859
+David Copperfield|Charles Dickens|1850
+Bleak House|Charles Dickens|1853
+Hard Times|Charles Dickens|1854
+Frankenstein|Mary Shelley|1818
+Dracula|Bram Stoker|1897
+The Picture of Dorian Gray|Oscar Wilde|1890
+The Strange Case of Dr Jekyll and Mr Hyde|Robert Louis Stevenson|1886
+Treasure Island|Robert Louis Stevenson|1883
+The Time Machine|H. G. Wells|1895
+The War of the Worlds|H. G. Wells|1898
+The Invisible Man|H. G. Wells|1897
+The Island of Doctor Moreau|H. G. Wells|1896
+Nineteen Eighty-Four|George Orwell|1949
+Animal Farm|George Orwell|1945
+Brave New World|Aldous Huxley|1932
+Fahrenheit 451|Ray Bradbury|1953
+The Martian Chronicles|Ray Bradbury|1950
+The Hobbit|J. R. R. Tolkien|1937
+The Fellowship of the Ring|J. R. R. Tolkien|1954
+The Two Towers|J. R. R. Tolkien|1954
+The Return of the King|J. R. R. Tolkien|1955
+The Lion, the Witch and the Wardrobe|C. S. Lewis|1950
+Prince Caspian|C. S. Lewis|1951
+The Voyage of the Dawn Treader|C. S. Lewis|1952
+Alice's Adventures in Wonderland|Lewis Carroll|1865
+Through the Looking-Glass|Lewis Carroll|1871
+The Wonderful Wizard of Oz|L. Frank Baum|1900
+Peter and Wendy|J. M. Barrie|1911
+Winnie-the-Pooh|A. A. Milne|1926
+The Wind in the Willows|Kenneth Grahame|1908
+The Secret Garden|Frances Hodgson Burnett|1911
+A Little Princess|Frances Hodgson Burnett|1905
+Anne of Green Gables|L. M. Montgomery|1908
+Little Women|Louisa May Alcott|1868
+Black Beauty|Anna Sewell|1877
+Charlotte's Web|E. B. White|1952
+Stuart Little|E. B. White|1945
+Charlie and the Chocolate Factory|Roald Dahl|1964
+Matilda|Roald Dahl|1988
+The BFG|Roald Dahl|1982
+James and the Giant Peach|Roald Dahl|1961
+The Witches|Roald Dahl|1983
+Fantastic Mr Fox|Roald Dahl|1970
+The Great Gatsby|F. Scott Fitzgerald|1925
+To Kill a Mockingbird|Harper Lee|1960
+The Catcher in the Rye|J. D. Salinger|1951
+Of Mice and Men|John Steinbeck|1937
+The Grapes of Wrath|John Steinbeck|1939
+East of Eden|John Steinbeck|1952
+The Old Man and the Sea|Ernest Hemingway|1952
+A Farewell to Arms|Ernest Hemingway|1929
+For Whom the Bell Tolls|Ernest Hemingway|1940
+The Sun Also Rises|Ernest Hemingway|1926
+Moby-Dick|Herman Melville|1851
+The Scarlet Letter|Nathaniel Hawthorne|1850
+The Adventures of Tom Sawyer|Mark Twain|1876
+Adventures of Huckleberry Finn|Mark Twain|1884
+The Call of the Wild|Jack London|1903
+White Fang|Jack London|1906
+The Jungle Book|Rudyard Kipling|1894
+Kim|Rudyard Kipling|1901
+Robinson Crusoe|Daniel Defoe|1719
+Gulliver's Travels|Jonathan Swift|1726
+Tristram Shandy|Laurence Sterne|1759
+The Vicar of Wakefield|Oliver Goldsmith|1766
+Vanity Fair|William Makepeace Thackeray|1848
+Middlemarch|George Eliot|1871
+Silas Marner|George Eliot|1861
+The Mill on the Floss|George Eliot|1860
+Tess of the d'Urbervilles|Thomas Hardy|1891
+Far from the Madding Crowd|Thomas Hardy|1874
+The Mayor of Casterbridge|Thomas Hardy|1886
+Dune|Frank Herbert|1965
+Foundation|Isaac Asimov|1951
+I, Robot|Isaac Asimov|1950
+The Hitchhiker's Guide to the Galaxy|Douglas Adams|1979
+The Color of Magic|Terry Pratchett|1983
+Good Omens|Terry Pratchett and Neil Gaiman|1990
+American Gods|Neil Gaiman|2001
+Coraline|Neil Gaiman|2002
+The Handmaid's Tale|Margaret Atwood|1985
+Beloved|Toni Morrison|1987
+The Color Purple|Alice Walker|1982
+The Road|Cormac McCarthy|2006
+Life of Pi|Yann Martel|2001
+The Book Thief|Markus Zusak|2005
+The Hunger Games|Suzanne Collins|2008

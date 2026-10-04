@@ -1,0 +1,100 @@
+Guacamole|Avocado|Mexico|The mashed fruit creates a creamy base, often seasoned with lime and chilli.
+Hummus|Chickpeas|Middle East|Tahini, a sesame paste, is usually blended with the cooked legumes.
+Falafel|Chickpeas or fava beans|Middle East|The seasoned legume mixture is shaped into balls or patties and fried.
+Tzatziki|Yogurt and cucumber|Greece|Garlic and herbs flavour this cool yogurt-based accompaniment.
+Pesto alla genovese|Basil|Italy|The green sauce traditionally combines basil, pine nuts, garlic, cheese and olive oil.
+Risotto|Rice|Italy|Stirring short-grain rice as stock is added helps produce a creamy texture.
+Polenta|Cornmeal|Italy|Ground corn is cooked with liquid and can be served soft or allowed to set.
+Gnocchi di patate|Potato|Italy|These small dumplings combine cooked potato with flour.
+Tiramisu|Mascarpone|Italy|Coffee-soaked sponge fingers alternate with a mascarpone-based cream.
+Panna cotta|Cream|Italy|Its name means cooked cream; the dessert is set rather than baked like a cake.
+Gazpacho|Tomato|Spain|This chilled soup blends vegetables and is especially associated with Andalusia.
+Patatas bravas|Potato|Spain|Fried potato pieces are served with a boldly flavoured sauce.
+Tortilla española|Potato and egg|Spain|This thick omelette differs from the flatbreads also called tortillas.
+Churros|Wheat-flour dough|Spain|Ridges increase the surface area of these fried dough sticks.
+Ratatouille|Mixed vegetables|France|Aubergine, courgette and tomato are common components of this Provençal dish.
+Crème brûlée|Egg custard|France|A thin caramelised sugar crust contrasts with the soft custard underneath.
+French onion soup|Onion|France|Slowly cooking onions develops the characteristic sweet, savoury base.
+Raclette|Cheese|Switzerland|Melted cheese is scraped over accompaniments such as potatoes.
+Rösti|Potato|Switzerland|Grated potatoes are fried into a crisp, flat cake.
+Sauerkraut|Cabbage|Germany|Lactic-acid fermentation preserves the shredded cabbage and creates its sour taste.
+Spätzle|Egg-and-flour batter|Germany|These small pieces of soft dough are cooked in boiling water.
+Pierogi ruskie|Potato and cheese|Poland|The filling is enclosed in dough before the dumplings are boiled.
+Borscht, beetroot version|Beetroot|Eastern Europe|Beetroot gives this version of the soup its distinctive red colour.
+Goulash|Beef and paprika|Hungary|Paprika is central to the flavour of the traditional Hungarian preparation.
+Moussaka, Greek-style|Aubergine|Greece|Layers commonly include meat sauce and a creamy béchamel topping.
+Spanakopita|Spinach|Greece|Spinach and cheese are enclosed in thin filo pastry.
+Dolmades, grape-leaf version|Grape leaves|Greece|The leaves wrap a filling often based on seasoned rice.
+Tabbouleh|Parsley and bulgur|Levant|Finely chopped herbs are central to this salad, rather than simply a garnish.
+Baba ghanoush|Aubergine|Levant|Roasting the aubergine can give the dip a smoky flavour.
+Kibbeh, bulgur version|Bulgur and minced meat|Levant|Fine cracked wheat forms part of the mixture or outer shell.
+Shakshuka|Eggs and tomato|North Africa|Eggs cook directly in a seasoned tomato-based sauce.
+Couscous, traditional grain|Durum wheat semolina|North Africa|The tiny granules are made from wheat rather than being a separate cereal species.
+Injera|Teff|Ethiopia|Fermentation gives the flatbread a sour flavour and a spongy texture.
+Doro wat|Chicken|Ethiopia|This richly seasoned stew is commonly served with injera.
+Fufu, cassava version|Cassava|West Africa|The starchy mixture is worked into a smooth, dough-like accompaniment.
+Jollof rice|Rice|West Africa|The grains absorb a tomato-based cooking liquid with spices and vegetables.
+Banku|Corn and cassava dough|Ghana|Fermented dough is cooked and stirred into a smooth, firm accompaniment.
+Bunny chow|Hollowed bread loaf|South Africa|The bread serves as an edible container for curry.
+Bobotie|Minced meat|South Africa|The spiced meat mixture is baked beneath an egg-based topping.
+Biltong|Dried meat|South Africa|Curing and drying preserve the meat and concentrate its flavour.
+Sushi rice|Vinegared rice|Japan|The seasoned rice defines sushi; raw fish is not required in every type.
+Miso|Fermented soybeans|Japan|Koji is used in making this savoury paste; versions can also include rice or barley.
+Edamame|Immature soybeans|Japan|The green beans are harvested before reaching full maturity.
+Soba, traditional noodles|Buckwheat|Japan|Buckwheat is not a type of wheat, though many soba noodles also contain wheat flour.
+Udon|Wheat flour|Japan|These Japanese noodles are typically thicker than soba.
+Mochi|Glutinous rice|Japan|Glutinous means sticky here; the rice itself does not contain gluten.
+Matcha|Powdered green tea|Japan|The powdered leaf is suspended in water rather than steeped and removed.
+Kimchi, napa-cabbage version|Napa cabbage|South Korea|Fermentation develops acidity and complex flavours in the seasoned vegetables.
+Bibimbap|Rice|South Korea|Its components are mixed together before eating; vegetables and egg are common toppings.
+Tteokbokki|Rice cakes|South Korea|Chewy cylindrical rice cakes are cooked in a sauce, often based on chilli paste.
+Tofu|Soybeans|China|Soy milk is coagulated, and the resulting curds are formed into blocks.
+Mapo tofu|Tofu|China|The Sichuan dish combines soft tofu with a strongly flavoured sauce.
+Congee|Rice|China|Long cooking with plenty of water breaks the grains down into a soft porridge.
+Peking duck|Duck|China|The preparation is especially known for its crisp skin.
+Baozi|Yeast-leavened wheat dough|China|These filled buns are generally steamed rather than baked.
+Phở|Rice noodles|Vietnam|The noodles are served in broth with herbs and other accompaniments.
+Bánh mì|Baguette-style bread|Vietnam|The sandwich brings together a crisp bread roll and varied savoury fillings.
+Gỏi cuốn|Rice-paper wrappers|Vietnam|These fresh rolls are wrapped without being deep-fried.
+Pad Thai|Rice noodles|Thailand|The noodles are stir-fried with a sauce and a mixture of toppings.
+Som tam|Unripe papaya|Thailand|Firm green papaya is shredded into a sharply flavoured salad.
+Mango sticky rice|Glutinous rice and mango|Thailand|Coconut milk flavours the sticky rice served alongside the fruit.
+Nasi goreng|Rice|Indonesia|The name describes fried rice, often seasoned with sweet soy sauce.
+Tempeh|Fermented soybeans|Indonesia|Fermentation binds whole beans into a firm cake.
+Rendang|Beef|Indonesia|The meat is slowly cooked with coconut milk and spices until the sauce reduces.
+Gado-gado|Vegetables and peanut sauce|Indonesia|The peanut dressing ties together the vegetables and other ingredients.
+Dal|Pulses|South Asia|The word refers to split pulses and dishes cooked from them.
+Chana masala|Chickpeas|India|Chana means chickpeas, which are simmered in a spiced sauce.
+Palak paneer|Spinach and paneer|India|Paneer is a fresh cheese that holds its shape in the spinach sauce.
+Aloo gobi|Potato and cauliflower|India|Aloo means potato and gobi refers to cauliflower in the dish's name.
+Dosa|Rice-and-lentil batter|India|Fermentation changes the flavour and texture before the batter is spread thinly on a hot surface.
+Idli|Rice-and-lentil batter|India|Unlike a dosa, an idli is steamed into a soft cake.
+Raita|Yogurt|South Asia|Vegetables or other ingredients are mixed into yogurt to make a cooling accompaniment.
+Lassi|Yogurt|South Asia|This yogurt-based drink can be sweet or savoury.
+Gulab jamun|Milk solids|South Asia|Small fried dough balls are soaked in a sweet syrup.
+Kheer, rice version|Rice and milk|South Asia|Slow cooking thickens this sweet pudding.
+Saag|Leafy greens|South Asia|Different leafy vegetables can be used; spinach is only one possibility.
+Poutine|French fries and cheese curds|Canada|Hot gravy is poured over fries and fresh cheese curds.
+Maple syrup|Maple-tree sap|Canada|Boiling removes water from the sap and concentrates its sugars.
+Clam chowder, New England-style|Clams and milk or cream|United States|The creamy version differs from tomato-based Manhattan clam chowder.
+Cornbread|Cornmeal|United States|Ground corn gives the bread a different texture from an all-wheat loaf.
+Grits|Ground corn|United States|The ground kernels are cooked with liquid into a porridge-like dish.
+Peanut butter|Peanuts|United States|Grinding roasted peanuts releases their oils and creates a spreadable paste.
+Guajillo salsa|Guajillo chillies|Mexico|Dried chillies are rehydrated and blended to form the sauce.
+Tamales|Corn masa|Mexico|The dough is wrapped around a filling and steamed in a leaf or husk.
+Pozole|Hominy|Mexico|Hominy is corn that has undergone an alkaline treatment.
+Elote, street-food style|Corn on the cob|Mexico|The cooked cob is served with toppings such as cheese and chilli.
+Arepas|Corn dough|Venezuela and Colombia|These round cakes can be split and filled after cooking.
+Pão de queijo|Cassava starch and cheese|Brazil|Cassava starch gives the small cheese breads their chewy interior.
+Feijoada, Brazilian-style|Black beans|Brazil|The beans are slow-cooked with meat in the traditional stew.
+Brigadeiro|Condensed milk and cocoa|Brazil|The cooked sweet mixture is rolled into small balls.
+Dulce de leche|Milk and sugar|Latin America|Slow heating develops a caramel-like colour and flavour.
+Chimichurri|Parsley and garlic|Argentina and Uruguay|The uncooked sauce combines chopped herbs with oil and an acidic ingredient.
+Ceviche|Fish or seafood|Peru|Citrus acid changes the proteins and texture; this is not the same process as cooking with heat.
+Papa a la huancaína|Potato|Peru|Cooked potatoes are covered with a creamy, chilli-flavoured cheese sauce.
+Colcannon|Potato and cabbage or kale|Ireland|Mashed potato is combined with cooked leafy greens.
+Welsh rarebit|Cheese sauce|Wales|The savoury cheese mixture is served on toast; rabbit meat is not an ingredient.
+Haggis, traditional version|Sheep offal and oats|Scotland|The finely chopped mixture is seasoned and cooked in a casing.
+Pavlova|Meringue|Australia and New Zealand|A crisp exterior surrounds a softer centre, commonly topped with cream and fruit.
+Lamington|Sponge cake|Australia|Cake pieces are coated in chocolate icing and desiccated coconut.
+Anzac biscuit|Rolled oats|Australia and New Zealand|Oats and coconut contribute to the biscuit's characteristic texture.

@@ -1,0 +1,73 @@
+QUESTION BANK EXPANSION — THE QUIZ BAR
+
+INSTALL: FOUR FILES, NO DELETIONS
+1. Extract this ZIP on your computer.
+2. Open your existing quiz-bar GitHub repository, on the Code tab.
+3. Click Add file > Upload files.
+4. Upload the four loose game files: questions.js, app.js, engine.js,
+   and style.css. Keep those exact names, at the top level of the repo.
+5. Click Commit changes to replace the four existing files.
+6. Wait for GitHub Pages to finish publishing.
+7. Both players should close old rooms, reload with Ctrl + Shift + R,
+   and create a new room.
+
+You do NOT need to upload UPDATE-INSTRUCTIONS.txt or the maintenance folder.
+The maintenance folder is included only for future editing and testing.
+
+TOTAL: 1,927 QUESTIONS
+Geography & the world: 215
+Science & space: 217
+Animals & nature: 204
+Food & drink: 205
+Movies & TV: 209
+Music: 206
+Sports: 215
+Books & art: 204
+General knowledge & numbers: 252
+
+At least 200 questions have been ADDED in each category, retaining the
+original 45 questions and their longer explanations. All 90 characters,
+category selection, variable game length and reveal controls remain.
+
+CONTENT SCOPE
+The added bank mixes trivia with structured learning/practice questions:
+country capitals and currencies; chemical elements; animal groups and diets;
+food ingredients and cuisines; film directors and release decades; artists
+and recording decades; Olympic hosts and sports terminology; authors and
+publication decades; and worked arithmetic problems. Related questions may
+teach different facts about the same subject. Exact normalised question
+stems are deduplicated, but this is not a claim of 1,927 unrelated subjects.
+
+Every question includes an answer note. Notes may be shared by related
+questions about the same subject. Historical country names are retained
+for historical Olympic hosts. Diet categories describe typical feeding,
+not absolute rules without exceptions. Books use publication decades to
+accommodate serialisation and edition differences.
+
+No live trivia API is used or required. New prompts and learning notes were
+compiled for this game from structured facts. No downloaded third-party
+trivia questions or Wikipedia extracts are included in the delivered bank.
+Useful reference resources include:
+https://physics.nist.gov/PhysRefData/Handbook/atomic_number.htm
+https://www.nist.gov/pml/periodic-table-elements
+https://www.olympics.com/en/olympic-games
+https://www.bfi.org.uk/bfi-national-archive/search-bfi-archive
+These are reference resources, not a claim that each entry was individually
+verified against them. Editorial or factual corrections can be made in
+questions.js or in the corresponding maintenance data file.
+
+VALIDATION
+Eleven automated tests passed during the update. Checks cover four distinct
+answer choices per question, valid answer indexes, notes present, all nine
+categories above 200, all 511 nonempty topic combinations, complete
+200-question games per category, scoring, rematches and full-bank selection.
+These checks validate game logic and data structure; they are not an
+independent fact-check of every answer. Live two-device testing was not
+performed in the creation environment.
+
+MAINTENANCE (OPTIONAL)
+The maintenance folder contains the compiled source tables and generator.
+To rebuild from an extracted archive, run from its root:
+  node maintenance/build-bank.mjs
+This rewrites questions.js using the tables and original 45-question bank.
+The runtime game files require no build or package installation.

@@ -1,0 +1,100 @@
+Bohemian Rhapsody|Queen|1970s
+We Will Rock You|Queen|1970s
+We Are the Champions|Queen|1970s
+Another One Bites the Dust|Queen|1980s
+Radio Ga Ga|Queen|1980s
+Don't Stop Me Now|Queen|1970s
+Dancing Queen|ABBA|1970s
+Mamma Mia|ABBA|1970s
+Waterloo|ABBA|1970s
+The Winner Takes It All|ABBA|1980s
+Take a Chance on Me|ABBA|1970s
+Super Trouper|ABBA|1980s
+Hey Jude|The Beatles|1960s
+Let It Be|The Beatles|1970s
+Yesterday|The Beatles|1960s
+Help!|The Beatles|1960s
+Come Together|The Beatles|1960s
+Yellow Submarine|The Beatles|1960s
+Billie Jean|Michael Jackson|1980s
+Beat It|Michael Jackson|1980s
+Thriller|Michael Jackson|1980s
+Bad|Michael Jackson|1980s
+Black or White|Michael Jackson|1990s
+Man in the Mirror|Michael Jackson|1980s
+Like a Virgin|Madonna|1980s
+Material Girl|Madonna|1980s
+Like a Prayer|Madonna|1980s
+Vogue|Madonna|1990s
+Frozen|Madonna|1990s
+Hung Up|Madonna|2000s
+Rocket Man|Elton John|1970s
+Your Song|Elton John|1970s
+Tiny Dancer|Elton John|1970s
+Crocodile Rock|Elton John|1970s
+I'm Still Standing|Elton John|1980s
+Sacrifice|Elton John|1980s
+Space Oddity|David Bowie|1960s
+Starman|David Bowie|1970s
+Heroes|David Bowie|1970s
+Let's Dance|David Bowie|1980s
+Life on Mars?|David Bowie|1970s
+Changes|David Bowie|1970s
+Purple Rain|Prince|1980s
+When Doves Cry|Prince|1980s
+Kiss|Prince|1980s
+1999|Prince|1980s
+Little Red Corvette|Prince|1980s
+Sign o' the Times|Prince|1980s
+Rolling in the Deep|Adele|2010s
+Someone Like You|Adele|2010s
+Hello|Adele|2010s
+Skyfall|Adele|2010s
+Chasing Pavements|Adele|2000s
+Easy on Me|Adele|2020s
+Bad Romance|Lady Gaga|2000s
+Poker Face|Lady Gaga|2000s
+Just Dance|Lady Gaga|2000s
+Born This Way|Lady Gaga|2010s
+Paparazzi|Lady Gaga|2000s
+Applause|Lady Gaga|2010s
+Shake It Off|Taylor Swift|2010s
+Love Story|Taylor Swift|2000s
+Blank Space|Taylor Swift|2010s
+Anti-Hero|Taylor Swift|2020s
+You Belong with Me|Taylor Swift|2000s
+We Are Never Ever Getting Back Together|Taylor Swift|2010s
+Single Ladies (Put a Ring on It)|Beyoncé|2000s
+Halo|Beyoncé|2000s
+Formation|Beyoncé|2010s
+Run the World (Girls)|Beyoncé|2010s
+Irreplaceable|Beyoncé|2000s
+Break My Soul|Beyoncé|2020s
+Smells Like Teen Spirit|Nirvana|1990s
+Come as You Are|Nirvana|1990s
+Lithium|Nirvana|1990s
+Heart-Shaped Box|Nirvana|1990s
+Wonderwall|Oasis|1990s
+Don't Look Back in Anger|Oasis|1990s
+Live Forever|Oasis|1990s
+Champagne Supernova|Oasis|1990s
+Yellow|Coldplay|2000s
+Clocks|Coldplay|2000s
+Fix You|Coldplay|2000s
+Viva la Vida|Coldplay|2000s
+Paradise|Coldplay|2010s
+A Sky Full of Stars|Coldplay|2010s
+Shape of You|Ed Sheeran|2010s
+Thinking Out Loud|Ed Sheeran|2010s
+The A Team|Ed Sheeran|2010s
+Perfect|Ed Sheeran|2010s
+Bad Habits|Ed Sheeran|2020s
+Shivers|Ed Sheeran|2020s
+Hotel California|Eagles|1970s
+Dancing in the Dark|Bruce Springsteen|1980s
+Take on Me|a-ha|1980s
+Sweet Dreams (Are Made of This)|Eurythmics|1980s
+Every Breath You Take|The Police|1980s
+Don't Stop Believin'|Journey|1980s
+Africa|Toto|1980s
+Livin' on a Prayer|Bon Jovi|1980s

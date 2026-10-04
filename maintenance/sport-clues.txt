@@ -1,0 +1,60 @@
+In which sport does the term love mean a score of zero?|Tennis|Tennis uses love, 15, 30 and 40 within a standard game. At 40–40, the score is called deuce.
+In which sport is an eagle two strokes under par on a hole?|Golf|An eagle is two strokes under par. A birdie is one under par and a bogey is one over.
+In which sport can a batter be dismissed leg before wicket?|Cricket|LBW concerns a delivery intercepted by the batter's body that meets specific conditions about its path toward the wicket.
+In which sport is a touchdown a scoring play worth six points?|American football|After a touchdown, the scoring team can attempt an extra point or a two-point conversion.
+In which sport is a try normally worth five points?|Rugby union|A try is scored by grounding the ball in the opponents' in-goal area. A conversion can add two points.
+In which sport is a scrum-half a standard playing position?|Rugby union|The scrum-half connects play between the forwards and backs, often passing the ball from rucks and scrums.
+In which sport is a slam dunk a common scoring action?|Basketball|A player scores a dunk by putting the ball directly down through the hoop. Most field goals are worth two points.
+In which sport is a libero a specialist defensive player?|Volleyball|The libero wears a contrasting jersey and has special substitution and playing restrictions.
+In which sport is a shuttlecock struck across a net?|Badminton|The shuttlecock's shape creates strong air resistance, so its speed changes rapidly after it is hit.
+In which sport do players sweep the ice ahead of a stone?|Curling|Sweeping affects the ice surface and can help control how far the stone travels and how much it curls.
+In which sport are foil, épée and sabre used?|Fencing|The three weapons have different target areas and scoring conventions, so tactics vary between them.
+In which sport is ippon a score that can immediately decide a contest?|Judo|A successful ippon ends the contest. It can result from a qualifying throw or certain groundwork outcomes.
+In which sport do competitors perform kata and kumite?|Karate|Kata consists of organised movement sequences, while kumite is sparring against an opponent.
+In which sport are pommel horse and parallel bars apparatus?|Artistic gymnastics|These are men's artistic gymnastics apparatus. Different apparatus test different combinations of strength, balance and coordination.
+In which sport are ribbon, hoop and ball performance apparatus?|Rhythmic gymnastics|Athletes combine body movements with controlled handling of an apparatus and choreography to music.
+In which sport is a break of 147 the conventional maximum with 15 reds?|Snooker|Fifteen reds paired with fifteen blacks yield 120 points, and clearing the colours adds 27.
+In which sport is a strike achieved by knocking down all ten pins with the first ball of a frame?|Ten-pin bowling|A strike also earns bonus points based on the next two deliveries. A spare clears the pins using both balls of a frame.
+In which sport is a home run hit beyond the outfield fence in fair territory?|Baseball|A home run allows the batter and any runners on base to score. A ball that travels foul does not qualify.
+In which sport does the wicketkeeper stand behind the striker's wicket?|Cricket|The wicketkeeper receives deliveries that pass the batter and can participate in catches and stumpings.
+In which sport does a goalkeeper defend a goal while players use sticks and a puck?|Ice hockey|The puck slides across the ice, and players wear skates. Protective equipment is especially important because play is fast.
+In which sport is the penalty corner a set play involving a ball and curved sticks on a pitch?|Field hockey|The attacking team restarts from the back line under specific positioning rules. It is distinct from an ordinary corner kick in football.
+In which sport do riders compete in the Tour de France?|Road cycling|The race is split into stages. The overall classification is based on cumulative time rather than simply counting stage wins.
+In which sport does the yellow jersey identify the Tour de France's overall leader?|Road cycling|The yellow jersey marks the rider with the lowest accumulated time in the general classification.
+In which sport is the butterfly one of the four competitive strokes?|Swimming|The other standard strokes are freestyle, backstroke and breaststroke. A medley combines all four.
+In which sport does a coxswain steer and coordinate a crew in some boats?|Rowing|The coxswain manages steering and communication. Not all rowing boats carry a coxswain.
+In which sport do athletes use a single-bladed paddle from a canoe?|Canoeing|A canoe paddle has one blade, unlike the double-bladed paddle normally associated with a kayak.
+In which sport do athletes usually use a double-bladed paddle in a kayak?|Kayaking|Alternating strokes on either side of the boat propel it forward. Racing and white-water formats test different skills.
+In which sport is dressage a discipline?|Equestrian sport|Dressage assesses a trained horse and rider performing precise movements. Communication and controlled balance are central.
+In which sport do athletes clear a bar using a flexible pole?|Pole vault|The athlete converts running speed into upward movement with the pole's help. A successful clearance leaves the crossbar in place.
+In which sport is a Fosbury flop a technique for clearing a bar?|High jump|The athlete approaches on a curve and clears the bar backwards. Dick Fosbury made the technique famous at the 1968 Olympics.
+In which sport is the hop, step and jump the defining sequence?|Triple jump|The event has three linked phases before the final landing. The sequence distinguishes it from the long jump.
+In which sport is the javelin thrown?|Athletics|The javelin is a spear-like implement. A valid throw must meet rules governing the runway, landing sector and contact with the ground.
+In which sport is the shot put contested?|Athletics|The metal shot is pushed from near the neck or shoulder rather than thrown like a baseball. Athletes compete from a throwing circle.
+In which sport are the 110-metre hurdles contested?|Athletics|Hurdlers maintain sprinting speed while clearing regularly spaced barriers. Rhythm between hurdles is a key technical skill.
+In which sport do athletes combine cross-country skiing with rifle shooting?|Biathlon|Athletes must control their breathing and aim after intense physical effort. Missed targets carry penalties.
+In which sport do athletes descend an ice track head-first on a small sled?|Skeleton|Skeleton racers lie prone and head-first. This contrasts with luge, where athletes lie on their backs and travel feet-first.
+In which sport do athletes descend an ice track feet-first on their backs?|Luge|The athlete steers with subtle body and sled inputs. Individual and doubles events use different sled configurations.
+In which sport do crews push a sled before riding down an ice track?|Bobsleigh|The push start creates initial speed before the crew enters the sled. Steering and a clean racing line also affect the run.
+In which sport are slalom and giant slalom disciplines?|Alpine skiing|Both require athletes to pass gates while descending a slope. Giant slalom generally has wider-spaced turns than slalom.
+In which sport is a halfpipe used for aerial tricks on one board?|Snowboarding|Riders use the curved sides of the halfpipe to gain height and perform tricks. Judges evaluate aspects such as difficulty and execution.
+In which sport are ollies and kickflips performed on a wheeled board?|Skateboarding|An ollie lifts the board without grabbing it. A kickflip adds a rotation of the board around its lengthwise axis.
+In which sport do players hit a small ball against a front wall with rackets in an enclosed court?|Squash|The ball may also contact side or back walls during a rally. Players share the same court rather than being separated by a net.
+In which sport do players use mallets to hit balls through hoops on a lawn?|Croquet|Players advance balls through a prescribed sequence of hoops. Different forms of croquet use different tactical and scoring rules.
+In which sport do mounted players strike a ball using long-handled mallets?|Polo|Players ride horses while moving the ball toward a goal. Matches are divided into periods called chukkas.
+In which sport does a player serve from behind the baseline and play rallies across a net with a racket?|Tennis|A serve begins a point, and the ball must land in the appropriate service box. Singles and doubles use different court widths.
+In which sport do players use small paddles on a table divided by a net?|Table tennis|Spin strongly affects the ball's bounce and trajectory. Players must judge both the direction and rotation of an incoming shot.
+In which sport is the bullseye at the centre of a numbered board a scoring target?|Darts|The central inner bull normally scores 50, while the outer bull scores 25. Numbered sectors and rings provide other values.
+In which sport do athletes shoot arrows at targets?|Archery|Consistent stance, draw and release help control accuracy. Recurve and compound bows use different designs.
+In which sport is a knockout a way to win a bout fought with gloved punches?|Boxing|A knockout occurs when a competitor cannot continue under the rules after being knocked down. Bouts may also be decided on points.
+In which sport is a pin a way to win by controlling an opponent's shoulders on the mat?|Wrestling|A pin is also called a fall. Different wrestling styles permit different holds and scoring actions.
+In which sport do competitors swim, cycle and run in sequence?|Triathlon|The three disciplines are connected by transition areas. Athletes must manage effort across the whole race.
+In which sport do competitors use a map and compass to find checkpoints?|Orienteering|The route between checkpoints is chosen by the competitor. Navigation decisions matter alongside running speed.
+In which sport do athletes ride waves on a board?|Surfing|Surfers use the moving wave for propulsion. Balance, positioning and wave selection are central skills.
+In which sport does a sail attached to a board provide propulsion?|Windsurfing|The rider controls the sail and shifts body weight to steer and balance. Wind direction determines the possible sailing angles.
+In which sport do teams pass a ball by hand and shoot at a goal on an indoor court?|Team handball|Outfield players combine running, passing and shooting. The goal area is mainly reserved for the goalkeeper.
+In which sport do teams try to score goals while swimming in a pool?|Water polo|Players must combine swimming with ball handling and positioning. Outfield players normally handle the ball with one hand.
+In which sport are scrums and lineouts both standard restarts?|Rugby union|Scrums restart play after certain stoppages, while lineouts return the ball to play after it crosses the touchline.
+In which sport is a bunker a sand-filled hazard near fairways or greens?|Golf|A bunker adds an obstacle that changes the technique needed for the next shot. Players often use a sand wedge to escape.
+In which sport is a wicket made of three stumps and two bails?|Cricket|The wicket is the physical target behind the batter. The same word can also refer to a dismissal or, informally, the pitch.
+In which sport is a marathon a road race of 42.195 kilometres?|Athletics|The marathon is a long-distance running event. Managing pace and endurance is essential over its standard distance.
